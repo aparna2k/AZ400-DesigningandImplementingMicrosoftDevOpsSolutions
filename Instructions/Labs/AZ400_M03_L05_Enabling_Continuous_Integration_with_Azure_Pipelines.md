@@ -141,4 +141,4 @@ In this task, you will trigger a continuous integration build.
 
 ## Review
 
-In this lab, you used the Azure DevOps portal to create a basic build pipeline from a template, to track and review a build, and to invoke a continuous integration build..
+In this lab, you used the Azure DevOps portal to create a basic build pipeline from a template, to track and review a build, and to invoke a continuous integration build.
